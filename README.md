@@ -16,4 +16,4 @@ Must install or clone lbcapi3. https://github.com/chidindu-ogbonna/lbcapi3
 3) Modify the user variables (Currency, bank, amount, etc) on the `get_deals.py` file
 4) Run the `get_deals.py` file
  
-The file will print averages rates and then after a couple of minutes (searching for the right offer) it will print the buy and sell bitcoins adds and open them on your default web browser.
+The file will print averages rates and then after a couple of minutes (searching for the right offer) it will print the buy and sell bitcoins ads and open them on your default web browser.
