@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Chuox
+config.py
+todo.txt
+
+#Visual Studio COde
+.vscode
