@@ -17,6 +17,7 @@ methodBuy = None #Example: 'transferencias-con-un-banco-especifico'
 bankSell = 'Bancolombia' #Bank where you want to do the fiat payment (Zelle, bofa, etc)
 bankBuy = 'Banesco' #Bank where you want to recive the fiat payment (Provincial, Banesco, etc)
 
+# TODO: Use F-Strings to print
 ave_sell_prices = lbclink.getAveragePrices(fiatSell)
 ave_buy_prices = lbclink.getAveragePrices(fiatBuy)
 rates = lbclink.ave_rates(ave_sell_prices, ave_buy_prices)

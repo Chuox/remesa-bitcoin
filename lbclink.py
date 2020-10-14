@@ -2,6 +2,8 @@
 @author: Chuox
 """
 # TODO: report errors when using conn 
+# TODO  use  decimal instead of float
+# TODO: Use F-Strings to print
 
 import os #Is recomended to store your private kyes as enviroment variables
 import urllib.parse
